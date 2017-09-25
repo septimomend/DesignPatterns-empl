@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Guitar.cpp
+  Electric.cpp
+  Drum.cpp
+  Acoustic.cpp
+  AbstractFactory.cpp
+  Generating Code...
+  Abstract Factory.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Abstract Factory\Debug\Abstract Factory.exe
+  Abstract Factory.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Abstract Factory\Debug\Abstract Factory.pdb (Partial PDB)
