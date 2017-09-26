@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  TableDirector.cpp
+  TableBuilder.cpp
+  Table.cpp
+  OvalTable.cpp
+  MagazineTable.cpp
+  Builder.cpp
+  Generating Code...
+  Builder.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Builder\Debug\Builder.exe
+  Builder.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Builder\Debug\Builder.pdb (Partial PDB)
