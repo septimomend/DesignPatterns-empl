@@ -7,8 +7,9 @@ Projects have developed for teaching purposes and author does not get off any re
   
 ## Articles  
 Read the articles for these code examples using links below. For your attention articles are written in ukrainian.  
-• [Abstract factory (UA)](https://codeguida.com/post/1026)  
-•  ...
+• [Abstract factory](https://codeguida.com/post/1026)  
+• [Builder](https://codeguida.com/post/1036)  
+• ... 
 
 ## Usage  
 For downloading this repository just click the download button in right upper screen corner and choose downloading through direct archive downloading, cloning or SSH key.  
