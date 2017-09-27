@@ -6,11 +6,11 @@
 #include "stdafx.h"
 #include "TableBuilder.h"
 
-class MagazineTable : public TableBuilder 
+class MagazineTableBuilder : public TableBuilder 
 {
 public:
-	MagazineTable();
-	~MagazineTable();
+	MagazineTableBuilder();
+	~MagazineTableBuilder();
 
 	virtual void setShape();
 	virtual void setHeight();

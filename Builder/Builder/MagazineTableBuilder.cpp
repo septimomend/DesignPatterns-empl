@@ -2,39 +2,39 @@
 // You can copy, use and share examples of this code. But do not post it and do not report it as your own.
 
 #include "stdafx.h"
-#include "MagazineTable.h"
+#include "MagazineTableBuilder.h"
 
 
-MagazineTable::MagazineTable()
+MagazineTableBuilder::MagazineTableBuilder()
 {
 }
 
 
-MagazineTable::~MagazineTable()
+MagazineTableBuilder::~MagazineTableBuilder()
 {
 }
 
-void MagazineTable::setShape()
+void MagazineTableBuilder::setShape()
 {
 	table->m_shape = "Square";
 }
 
-void MagazineTable::setHeight()
+void MagazineTableBuilder::setHeight()
 {
 	table->m_height = 0.5;
 }
 
-void MagazineTable::setWidth()
+void MagazineTableBuilder::setWidth()
 {
 	table->m_width = 0.5;
 }
 
-void MagazineTable::setLong()
+void MagazineTableBuilder::setLong()
 {
 	table->m_long = 1.0;
 }
 
-void MagazineTable::setMaterial()
+void MagazineTableBuilder::setMaterial()
 {
 	table->m_material = "Glass";
 }

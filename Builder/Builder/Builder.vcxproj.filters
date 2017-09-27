@@ -33,10 +33,10 @@
     <ClInclude Include="OvalTable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MagazineTable.h">
+    <ClInclude Include="TableDirector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TableDirector.h">
+    <ClInclude Include="MagazineTableBuilder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -53,13 +53,13 @@
     <ClCompile Include="OvalTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MagazineTable.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="TableBuilder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TableDirector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagazineTableBuilder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

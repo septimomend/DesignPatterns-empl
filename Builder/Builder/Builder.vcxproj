@@ -146,7 +146,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MagazineTable.h" />
+    <ClInclude Include="MagazineTableBuilder.h" />
     <ClInclude Include="OvalTable.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Table.h" />
@@ -156,7 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Builder.cpp" />
-    <ClCompile Include="MagazineTable.cpp" />
+    <ClCompile Include="MagazineTableBuilder.cpp" />
     <ClCompile Include="OvalTable.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
