@@ -5,13 +5,13 @@
 //
 
 #include "stdafx.h"
-#include "OvalTable.h"
+#include "OvalTableBuilder.h"
 #include "MagazineTableBuilder.h"
 #include "TableDirector.h"
 
 int main()
 {
-	TableBuilder* pO = new OvalTable();
+	TableBuilder* pO = new OvalTableBuilder();
 	TableBuilder* pM = new MagazineTableBuilder();
 	TableDirector dir;
 	dir.setTableBuilder(*pO);

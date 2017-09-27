@@ -6,11 +6,11 @@
 #include "stdafx.h"
 #include "TableBuilder.h"
 
-class OvalTable : public TableBuilder
+class OvalTableBuilder : public TableBuilder
 {
 public:
-	OvalTable();
-	~OvalTable();
+	OvalTableBuilder();
+	~OvalTableBuilder();
 
 	virtual void setShape();
 	virtual void setHeight();

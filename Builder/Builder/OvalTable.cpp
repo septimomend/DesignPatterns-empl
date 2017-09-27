@@ -2,39 +2,39 @@
 // You can copy, use and share examples of this code. But do not post it and do not report it as your own.
 
 #include "stdafx.h"
-#include "OvalTable.h"
+#include "OvalTableBuilder.h"
 
 
-OvalTable::OvalTable()
+OvalTableBuilder::OvalTableBuilder()
 {
 }
 
 
-OvalTable::~OvalTable()
+OvalTableBuilder::~OvalTableBuilder()
 {
 }
 
-void OvalTable::setShape()
+void OvalTableBuilder::setShape()
 {
 	table->m_shape = "Oval";
 }
 
-void OvalTable::setHeight()
+void OvalTableBuilder::setHeight()
 {
 	table->m_height = 0.7;
 }
 
-void OvalTable::setWidth()
+void OvalTableBuilder::setWidth()
 {
 	table->m_width = 1.0;
 }
 
-void OvalTable::setLong()
+void OvalTableBuilder::setLong()
 {
 	table->m_long = 2.0;
 }
 
-void OvalTable::setMaterial()
+void OvalTableBuilder::setMaterial()
 {
 	table->m_material = "Tree";
 }
