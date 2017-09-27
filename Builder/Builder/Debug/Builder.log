@@ -1,9 +1,5 @@
-﻿  stdafx.cpp
-  TableDirector.cpp
-  TableBuilder.cpp
-  Table.cpp
-  OvalTable.cpp
-  MagazineTable.cpp
+﻿  OvalTableBuilder.cpp
+  MagazineTableBuilder.cpp
   Builder.cpp
   Generating Code...
   Builder.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Builder\Debug\Builder.exe

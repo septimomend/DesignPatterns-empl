@@ -147,7 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MagazineTableBuilder.h" />
-    <ClInclude Include="OvalTable.h" />
+    <ClInclude Include="OvalTableBuilder.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Table.h" />
     <ClInclude Include="TableBuilder.h" />
@@ -157,7 +157,7 @@
   <ItemGroup>
     <ClCompile Include="Builder.cpp" />
     <ClCompile Include="MagazineTableBuilder.cpp" />
-    <ClCompile Include="OvalTable.cpp" />
+    <ClCompile Include="OvalTableBuilder.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
