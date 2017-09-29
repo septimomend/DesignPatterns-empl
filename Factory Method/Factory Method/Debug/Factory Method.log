@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  NovelBook.cpp
+  FictionBook.cpp
+  FantasyBook.cpp
+  FactoryMethod.cpp
+  BookFactory.cpp
+  Book.cpp
+  Generating Code...
+c:\users\chapkailo\documents\github\designpatterns-empl\factory method\factory method\bookfactory.cpp(34): warning C4715: 'BookFactory::getBook': not all control paths return a value
+  Factory Method.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Factory Method\Debug\Factory Method.exe
+  Factory Method.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Factory Method\Debug\Factory Method.pdb (Partial PDB)
