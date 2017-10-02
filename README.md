@@ -9,7 +9,7 @@ Projects have developed for teaching purposes and author does not get off any re
 Read the articles for these code examples using links below. For your attention articles are written in ukrainian.  
 • [Abstract factory](https://codeguida.com/post/1026)  
 • [Builder](https://codeguida.com/post/1036)  
-• [Factory method](...)  
+• [Factory method](https://codeguida.com/post/1043)  
 • ... 
 
 ## Usage  
