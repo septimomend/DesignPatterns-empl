@@ -13,6 +13,7 @@ ClassicSingleton::ClassicSingleton()
 
 ClassicSingleton::~ClassicSingleton()
 {
+	delete m_pInstance;
 }
 
 ClassicSingleton* ClassicSingleton::getInstance()
