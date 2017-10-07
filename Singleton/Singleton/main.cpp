@@ -34,6 +34,7 @@ int main()
 	cout << "\nStage 4" << endl;
 	MeyersSingleton& ms2 = MeyersSingleton::getInstance();
 	cout << "Meyers' ms (address): " << &ms2 << endl;
+
 	return 0;
 }
 
