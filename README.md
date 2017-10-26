@@ -7,10 +7,13 @@ Projects have developed for teaching purposes and author does not get off any re
   
 ## Articles  
 Read the articles for these code examples using links below. For your attention articles are written in ukrainian.  
+**Creational:**  
 • [Abstract factory](https://codeguida.com/post/1026)  
 • [Builder](https://codeguida.com/post/1036)  
 • [Factory method](https://codeguida.com/post/1043)  
 • [Prototype](https://codeguida.com/post/1048)  
+• [Singleton](https://codeguida.com/post/1053)  
+**Structural:**  
 • ...
 
 ## Usage  
