@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  USB_3_0.cpp
+  USB_2_0.cpp
+  USBAdapter.cpp
+  OldStandard.cpp
+  Notebook.cpp
+  NewStandard.cpp
+  main.cpp
+  Generating Code...
+  Adapter.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Structural\Adapter\Debug\Adapter.exe
+  Adapter.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Structural\Adapter\Debug\Adapter.pdb (Partial PDB)
