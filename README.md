@@ -14,7 +14,7 @@ Read the articles for these code examples using links below. For your attention 
 • [Prototype](https://codeguida.com/post/1048)  
 • [Singleton](https://codeguida.com/post/1053)  
 **Structural:**  
-• Adapter  
+• [Adapter](https://codeguida.com/post/1108)  
 • ...
 
 ## Usage  
