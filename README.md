@@ -15,7 +15,7 @@ Read the articles for these code examples using links below. For your attention 
 • [Singleton](https://codeguida.com/post/1053)  
 **Structural:**  
 • [Adapter](https://codeguida.com/post/1108)  
-• Bridge  
+• [Bridge](...)  
 
 ## Usage  
 For downloading this repository just click the download button in right upper screen corner and choose downloading through direct archive downloading, cloning or SSH key.  
