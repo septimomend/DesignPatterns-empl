@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Videocard.cpp
+  nvidia920m.cpp
+  Notebook.cpp
+  Lenovo.cpp
+  main.cpp
+  Dell.cpp
+  amdR5.cpp
+  Generating Code...
+  Bridge.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Structural\Bridge\Debug\Bridge.exe
+  Bridge.vcxproj -> C:\Users\Chapkailo\Documents\GitHub\DesignPatterns-empl\Structural\Bridge\Debug\Bridge.pdb (Partial PDB)
