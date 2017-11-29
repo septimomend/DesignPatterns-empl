@@ -26,6 +26,6 @@ void Dell::setDisplay()
 
 void Dell::setVideocard()
 {
-	vcard->setVideocard();
+	vcard->setVideocard();	
 	vcard->runVideocard();
 }

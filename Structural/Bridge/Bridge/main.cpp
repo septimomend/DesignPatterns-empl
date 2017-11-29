@@ -1,7 +1,7 @@
 // 2017 © Chapkailo Ivan (septimomend) / MIT License
 // You can copy, use and share examples of this code. But do not post it and do not report it as your own.
 
-// Bridge.cpp : Defines the entry point for the console application.
+// main.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -14,9 +14,9 @@ int main()
 	Notebook* nbook = new Lenovo();
 	nbook->setProcessor();
 	nbook->setDisplay();
-	Videocard* video = new nvidia920m();
-	nbook->vcard = video;
-	nbook->setVideocard();
+	Videocard* video = new nvidia920m();	// choose card
+	nbook->vcard = video;					// use bridge
+	nbook->setVideocard();					// and set this one
 
 	cout << "\nDell:" << endl;
 	Notebook* nbook2 = new Dell();
