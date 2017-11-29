@@ -26,6 +26,6 @@ void Lenovo::setDisplay()
 
 void Lenovo::setVideocard()
 {
-	vcard->setVideocard();
-	vcard->runVideocard();
+	vcard->setVideocard();	// set matched card
+	vcard->runVideocard();	// and run
 }
