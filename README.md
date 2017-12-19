@@ -15,7 +15,7 @@ Read the articles for these code examples using links below. For your attention 
 • [Singleton](https://codeguida.com/post/1053)  
 **Structural:**  
 • [Adapter](https://codeguida.com/post/1108)  
-• [Bridge](...)  
+• [Bridge](https://codeguida.com/post/1142)  
 • *to be continued...*  
 
 ## Usage  
